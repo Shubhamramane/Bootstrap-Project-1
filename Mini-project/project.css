@@ -1,0 +1,40 @@
+img{
+    height: 240px;
+    border-radius: 10px;
+    position: relative;
+    left: 332px;
+}
+.col-4-1::after{
+    content: "";
+    /*right: 100px;*/
+    width: 332px;
+    position: absolute;
+    border-radius: 10px;
+    height: 240px;
+    background-color: #1abc9cde;
+    top: 64px;
+
+    transform: scaleZ(0);
+}
+.plus{
+    position: absolute;
+    color: white;
+    top: 90px;
+    left: 160px;
+    z-index: 1;
+    width: 80px!important;
+    transform: scaleZ(0);
+    
+}
+.col-4-1:hover::after{
+    transform: scaleZ(1);
+}
+.containerbox3 h1{
+    padding-top: 40px;
+}
+.fa04{
+    padding-top: 20px;
+}
+.col-4-1:hover .plus{
+    transform: scaleZ(1);
+}

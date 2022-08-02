@@ -1,0 +1,307 @@
+body{
+	/*height: 900px;*/
+}
+.abc{
+	background-color: #2c3e50;
+}
+.navbar{
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+.white{
+	color: white!important;
+
+}
+.navbar-brand{
+	/*margin-left: 200px!important;*/
+	margin-right: 0px; 
+}
+.navbar-nav{
+	/*margin-left: 480px!important;	*/
+	box-sizing: border-box;
+}
+.nav-item{
+	padding-top: 30px;	
+}
+
+.nav-link h5{
+	color: white!important;
+}
+.menu{
+	background-color: #1abc9c;
+	color: white!important;
+}
+.src{
+	height: 400px;
+	width: 400px;
+	padding-top: 200px; 
+}
+.bg{
+	background-color: #1abc9c;
+	height: 700px;
+}
+.bg h1{
+	font-size: 50px;
+	color: white;
+}
+.fa-star{
+	color: white;
+	height: 20px;
+	font-size: 100px;
+	padding: 0px 20px 0px 20px;
+}
+.bg p{
+	color: white;
+	font-size: 20px;
+}
+.flex .str0{
+	font-size: 40px;
+	color: white!important;
+}
+.star0{
+	width: 100px;
+	height: 5px;
+	border:none;
+	margin-top: 30px;
+	background-color: white!important;
+}
+.py-5{
+	/*padding-top: 50px;*/
+	color: #212529;
+}
+.star1{
+	width: 100px;
+	height: 5px;
+	border:none;
+	margin-top: 30px;
+	background-color: #212529!important;
+}
+.p-3 img{
+	height: 280px;
+	width: 380px;
+	border-radius: 10px;
+}
+.container .fa-star{
+	color: #212529;
+	font-size: 40px;
+}
+
+.fa-times{
+	background-color: #1abc9c;
+	height: 30px;
+	width: 150px;
+	color: white;
+	padding-top: 5px;
+	border-radius: 5px;
+}
+.btn-close{
+	background-color:#1abc9c;
+	color: white; 
+}
+.btn{
+	background-color:#1abc9c;
+	color: white;
+}
+.box2 h1{
+	color: white;
+	font-size: 50px;
+}
+.containerbox2 .str{
+	margin-top:0px;	
+	color: white!important;
+}
+.star2{
+	width: 100px;
+	height: 5px;
+	border:none;
+}
+.py-5{
+	color: white;
+}
+.download{
+	background-color:#1abc9c;
+	color: white;
+	border: 1px white solid; 
+	border-radius: 5px;
+	height: 50px;
+	width: 200px;
+}
+
+.fa-star{
+	margin-top: 10px;	
+	color: #2c3e50!important;
+}
+.box3{
+	margin-top: 50px;
+}
+.btn3{margin-right: 500px;
+	border:none;
+	border-radius: 5px;
+	height: 50px;
+	width: 100px;
+	color: white;
+	background-color: #1abc9c;
+}
+.form{
+	margin-top: 30px;
+}
+.form1{
+	width: 300px;
+	height: 50px;
+	border-bottom: 2px solid black;
+	border:none;
+}
+.form1_1{
+	width: 300px;
+	height: 100px;
+	border:none;
+}
+.footer{
+	margin-top: 30px;
+	background-color: #2c3e50;
+
+}
+.footer h3{
+	padding-top: 30px;
+	color: white;
+}
+.footer p{
+	color: white;
+}
+
+.btn4{
+	border:1px solid white;
+	border-radius: 50%;
+	background-color: #2c3e50;
+	color: white;
+	height: 50px;
+	width: 50px;
+	margin-left: 10px;
+}
+.containerbox2 h1{
+	padding-top: 20px;
+	color: white;
+	font-size: 55px;
+
+}
+.fa03{
+	color: white;
+}
+.box2{
+	margin-top: 50px;
+	height: 630px;
+	width: 100%;
+	background-color: #19bc9c;
+}
+.star2{
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 20px;
+	width: 80px;
+	background-color: transparent;
+	border-width: 0px;
+	border-top: 5px solid white;
+}
+.text10{
+	color: white;
+	font-size: 19px;
+}
+.text2{
+	color: white;
+	font-size: 19px;
+}
+.img01 img{
+    width: 332px;
+    border-radius: 10px;
+    
+}
+.col-4-1{
+    position: relative;
+    width: 332px;
+}
+
+.ghj :hover{
+	background: white;
+
+}
+.containerbox2 h1{
+	color: white;
+
+}
+.star3{
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 20px;
+	width: 80px;
+	background-color: transparent;
+	border-width: 0px;
+	border-top: 5px solid black;
+
+}
+.col-4-1:hover{
+    /*cursor: pointer-events: r;*/
+}
+.box3{
+	height: 800px;
+	/*background-color: red;*/
+}
+
+.form1{
+	height: 50px;
+	width: 600px;
+	border-width: 0px;
+	border-bottom: 1px solid black;
+
+}
+.form1_1{
+	margin-top: 90px;
+	height: 50px;
+	width: 600px;
+	border-width: 0px;
+	border-bottom: 1px solid black;
+
+
+}
+.form1_2{
+	/*align-items: top;*/
+	margin-top: 20px;
+	height: 150px;
+	width: 600px;
+	border-width: 0px;
+	border-bottom: 1px solid black;
+
+}
+
+.containerbox3 h1{
+	padding-top: 40px;
+}
+.fa04{
+	padding-top: 20px;
+}
+.col-4-1::after{
+    content: "";
+    width: 332px;
+    position: absolute;
+    border-radius: 10px;
+    height: 240px;
+    background-color: #1abc9cde;
+    top: 0px;
+    transform: scaleZ(0);
+}
+.col-4-1:hover::after{
+    transform: scaleZ(1);
+}
+.plus{
+    position: absolute;
+    color: white;
+    /*top: 90px;*/
+    /*left: 160px;*/
+    z-index: 1;
+    width: 80px!important;
+    transform: scaleZ(0);
+    
+}
+.col-4-1:hover .plus{
+    /*transform: scaleZ(1);*/
+}
